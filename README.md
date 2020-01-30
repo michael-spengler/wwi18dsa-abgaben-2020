@@ -17,6 +17,7 @@
 |      David Ermolajew, Daniel Fauland       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/8      |  https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/9        |  1,1    |
 |     Valentin Müller        |   https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/2       | https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/6         |    1,4  |
 |      Tobias Bethge       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/12      |     https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/2     |   1,3   |
+|      Marc Pernau       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/16   |     https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/13     |   1,6   |
 
 
 
