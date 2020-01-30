@@ -14,12 +14,9 @@
 |   Marcel Gardias, Lisa Reinig, Patrick Unverricht          |     https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/11     |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/8      |  1,4    |
 |     Pia Schramm        |     https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/7     |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/5      |   1,2   |
 |      Arnold Hajnal, Yasmin Braun       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/10      |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/1      |   1,5   |
-|      David Ermolajew, Daniel Fauland       |          |          |  1,1    |
-|     Valentin Müller        |          |          |    1,4  |
-|      Tobias Bethge       |          |          |   1,3   |
-|             |          |          |      |
-|             |          |          |      |
-|             |          |          |      |
+|      David Ermolajew, Daniel Fauland       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/8      |  https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/9        |  1,1    |
+|     Valentin Müller        |   https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/2       | https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/6         |    1,4  |
+|      Tobias Bethge       |    https://github.com/michael-spengler/wwi18dsa-play-and-learn-frontend/pull/12      |     https://github.com/michael-spengler/wwi18dsa-play-and-learn-backend/pull/2     |   1,3   |
 
 
 
