@@ -5,4 +5,4 @@
 |------------|----------|----------|------|
 | Tristan Schwarzer, Janina Patzer, Joshua Schmieder | link to PR 1         |  link to PR 2        |  1,1    |
 |      Lea Kleemann, Nina Kaufmann      |  Link to PR1         | Link to PR2         |  1,2    |
-|  Björn Klemens, Florian Gemmer          |          |          |  1,0    |
+|  Björn Bulkens, Klemens Gerber, Florian Gemmer           |          |          |  1,0    |
